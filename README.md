@@ -28,5 +28,5 @@ Erste Ladung bei 0,1C (langsamer Ladevorgang) bis 4,2 V, danach Entladung bis 2,
 Schnellladetest: Lade bei 10C (unter 6 Minuten für 80% Kapazität). Erwartete Reichweite bei 60 kWh Batterie: 820 km (WLTP-Zyklus)."
 
 
-Das was Ich wirklich will, ist auch dass hier hören zu können ohne in den Knast zu müssen:
+Das was Ich wirklich will, ist auch dass hier hören zu können ohne in den Knast zu müssen weil 1:02 ballert besser als Drogen:
 https://youtu.be/eMPjAGR75RA?si=lCdel26d5y85jK4X
