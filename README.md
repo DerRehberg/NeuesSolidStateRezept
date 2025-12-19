@@ -1,5 +1,5 @@
 # NeuesSolidStateRezept
-Test, gehört keinem direkt. Weiß nichtmal ob legit.
+Test, gehört keinem direkt. Weiß nichtmal ob legit. Autos kann man verkaufen son Rezept nicht, aber wo mein Harz mit Ruhe?
 
 
 1. Kathode (Positivpol):
