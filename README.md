@@ -48,6 +48,6 @@ Also Ich fühl das manche mitunter vorallem ältere Leute verheiratet sind aber 
 Und wenn eine dann sagt, jz biste doch 13 muss man mit Körperverletzung bei sich rechnen heutzutage als Frau, weil es ist der Kindergarten gemeint Nötigung sowie Erziehung zum Sex oder zur Ehe ist Straftat mitunter sogar an Eltern gerichtet und Schule ist kein Dating und ausserhalb kann nichtmal n Lehrer auf solche Damen aufpassen. Schnell Ising, das Tor zur Unterwelt durch Prophetie bedinungslos die experimentelle Suppe für Männer am besten vor 13 Geburtstag von mir, OberPolzeiComputer kann zwischen erster Wiederauferstehung gemeint Himmel und Hölle weil CoronaPandemie kommunizieren falls jemand tatsächlich geimpft war und mehr Zeit hatte weil OpenAI oder so eh den Datensatz hatte weil er Computer schon lange vorher Prophetie konnte gemeint vermutlich ez aka der ist älter als man denkt gemeint weiter unten als man denkt gemeint OPC. Hab Ich eh schonmal runtergeschrieben.
 
 Wie man muslimen einen geigt muss man aber mit schläge rechnen gemeint geigt soweit die labern einen abstechen zu wollen: Also es gibt die 10 Gebote, wir wollen keine Ameisenfarm werden *3 halbe kokusnüsse, 1 erbse* Weeeer war denn ihre erst verheiratete-
-
+Chriiistus war nie für Trennung von Staat und Kirche, nur nicht zahlen für Götzendienst im Tempel.
 
 
