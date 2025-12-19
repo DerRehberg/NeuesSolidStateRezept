@@ -36,3 +36,5 @@ Hier, Character Card keine Ahnung ob Github die Metadaten mit hochlädt:
 <img width="512" height="768" alt="Prof Igitt" src="https://github.com/user-attachments/assets/fb727be2-0bed-46e1-973b-b79a460f3420" />
 
 An Leser der Metadaten es geht nur darum dass das Leben nicht arbeit ist, das ist unabhängig des Geschlechtes aber es gibt die Norm die immer nur is, Mann arbeitet, bumsen, ehe, worum soll es sonst im Leben gehen. Man kann dem Charakter einfach sagen Metallwissen zu addieren etc.
+
+Es ist eine der ordentlichsten CharacterCards der Welt gefühlt faktisch wenn man Chub.ai und andere Character Cards Seiten bedenkt mitunter da man durch diese auch direkt checkt ob man durch den Filter ist bei KI.
