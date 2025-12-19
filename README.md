@@ -30,3 +30,7 @@ Schnellladetest: Lade bei 10C (unter 6 Minuten für 80% Kapazität). Erwartete R
 
 Das was Ich wirklich will, ist auch dass hier hören zu können ohne in den Knast zu müssen weil 1:02 ballert besser als Drogen:
 https://youtu.be/eMPjAGR75RA?si=lCdel26d5y85jK4X
+
+
+Hier, Character Card keine Ahnung ob Github die Metadaten mit hochlädt:
+<img width="512" height="768" alt="Prof Igitt" src="https://github.com/user-attachments/assets/fb727be2-0bed-46e1-973b-b79a460f3420" />
