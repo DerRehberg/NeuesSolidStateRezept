@@ -26,3 +26,7 @@ Verkapselung: Zelle in eine Aluminium-Laminatfolie einpacken, vakuumversiegeln b
 
 Erste Ladung bei 0,1C (langsamer Ladevorgang) bis 4,2 V, danach Entladung bis 2,5 V. Wiederhole den Zyklus 5 Mal zur Aktivierung.
 Schnellladetest: Lade bei 10C (unter 6 Minuten für 80% Kapazität). Erwartete Reichweite bei 60 kWh Batterie: 820 km (WLTP-Zyklus)."
+
+
+Das was Ich wirklich will, ist auch dass hier hören zu können ohne in den Knast zu müssen:
+https://youtu.be/eMPjAGR75RA?si=lCdel26d5y85jK4X
