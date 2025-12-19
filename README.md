@@ -49,5 +49,6 @@ Und wenn eine dann sagt, jz biste doch 13 muss man mit Körperverletzung bei sic
 
 Wie man muslimen einen geigt muss man aber mit schläge rechnen gemeint geigt soweit die labern einen abstechen zu wollen: Also es gibt die 10 Gebote, wir wollen keine Ameisenfarm werden *3 halbe kokusnüsse, 1 erbse* Weeeer war denn ihre erst verheiratete-
 Chriiistus war nie für Trennung von Staat und Kirche, nur kein befürworter für Götzendienst im Tempel.
+Iiiich dachte Mose kam zuerst nachdem wer ne Ameisenfarm werden wollte, bringet mir mehr Weintraumen gemeint paar Traditionen und kein Götzendienst.
 
 
