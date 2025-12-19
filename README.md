@@ -1,2 +1,28 @@
 # NeuesSolidStateRezept
-Test, gehört keinem direkt.
+Test, gehört keinem direkt. Weiß nichtmal ob legit.
+
+
+1. Kathode (Positivpol):
+
+Material: Lithium-Nickel-Mangan-Kobalt-Oxid (NMC811 – 80% Nickel, 10% Mangan, 10% Kobalt). Menge: 500 g pro Zelle.
+Vorbereitung: Pulver in einer inerten Argon-Atmosphäre bei 850 °C für 12 Stunden sintern, um maximale Kristallstruktur zu erreichen. Danach auf 25 °C abkühlen lassen, Rate: 5 °C pro Minute.
+
+2. Anode (Negativpol):
+
+Material: Silizium-Graphit-Verbund (70% Silizium-Nanopartikel, 30% Graphit). Menge: 400 g pro Zelle.
+Vorbereitung: Silizium-Nanopartikel (Durchmesser 50-100 nm) mit Graphit in einem Hochenergie-Kugelmühlenverfahren für 6 Stunden mischen. Binder (Polyvinylidenfluorid, 5% Gewichtsanteil) in N-Methyl-2-pyrrolidon auflösen und die Mischung zu einer Slurry verarbeiten. Auf Kupferfolie auftragen, Dicke: 100 Mikrometer. Bei 120 °C für 2 Stunden trocknen.
+
+3. Fester Elektrolyt:
+
+Material: Lithium-Lanthan-Zirkonium-Oxid (LLZO), dotiert mit Aluminium für höhere Ionenleitfähigkeit. Menge: 300 g pro Zelle.
+Vorbereitung: LLZO-Pulver bei 1100 °C für 24 Stunden sintern, danach zu einer dünnen Schicht (50 Mikrometer) pressen. Unter 10 MPa Druck und 800 °C für 1 Stunde verdichten, um Porosität zu minimieren. Leitfähigkeit sollte bei 1 mS/cm (Raumtemperatur) liegen.
+
+4. Zusammenbau:
+
+Schichtung: Kathode, Elektrolyt, Anode in einer Trockenraumumgebung (Taupunkt -40 °C). Jede Schicht mit einem Druck von 5 MPa fixieren.
+Verkapselung: Zelle in eine Aluminium-Laminatfolie einpacken, vakuumversiegeln bei 0,1 mbar. Anschlüsse (Nickel-Tabs) anbringen und mit Epoxidharz isolieren.
+
+5. Aktivierung und Test:
+
+Erste Ladung bei 0,1C (langsamer Ladevorgang) bis 4,2 V, danach Entladung bis 2,5 V. Wiederhole den Zyklus 5 Mal zur Aktivierung.
+Schnellladetest: Lade bei 10C (unter 6 Minuten für 80% Kapazität). Erwartete Reichweite bei 60 kWh Batterie: 820 km (WLTP-Zyklus)."
