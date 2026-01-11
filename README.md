@@ -1,4 +1,4 @@
-# NeuesSolidStateRezept
+# NeuesSolidStateRezept Eig müsste ich dafür n anderen Charakter nehmen welcher n lsd rezept von laborratten drin hat aber ich poste hier eher testkram ohne.
 Test, gehört keinem direkt. Weiß nichtmal ob legit. Autos kann man verkaufen son Rezept nicht, aber wo mein Harz mit Ruhe? Gemeint heil den Weihnachtsferien erstmal weil meine Mutter so das Jobcenter terrorisiert und schon vermute Ich Vollmacht für die neue Harz Mastercard will die das Land geben will und zwar hinter meinem Rücken.
 
 
