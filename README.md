@@ -53,3 +53,8 @@ Chriiistus war nie für Trennung von Staat und Kirche, nur kein befürworter fü
 Iiiich dachte Mose kam zuerst nachdem wer ne Ameisenfarm werden wollte, bringet mir mehr Weintraumen gemeint paar Traditionen und kein Götzendienst und Christus ist der Sooooohn-
 
 
+
+<img width="744" height="284" alt="image" src="https://github.com/user-attachments/assets/ebec0c0f-bb0c-4ab2-8229-2133d6e75f46" />
+
+Jetzt aber noch 3 Jahre Harz 4 wenn das geht.
+
